@@ -7,7 +7,7 @@ const features = [
   {
     icon: UserIcon,
     title: 'User-Centric Approach',
-    description: 'I prioritize creating intuitive and accessible solutions that enhance user experience.'
+    description: 'I prioritize creating eintuitive and accessible solutions that enhance user experience.'
   },
   {
     icon: CodeBracketIcon,
